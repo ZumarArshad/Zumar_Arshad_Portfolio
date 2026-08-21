@@ -424,6 +424,9 @@ h2 em {
 .about-initial span {
   color: var(--accent-2);
 }
+.about-image-badge {
+  color: var(--cream);
+}
 .experience-badge {
   position: absolute;
   right: 20px;
